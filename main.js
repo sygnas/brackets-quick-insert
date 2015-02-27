@@ -20,8 +20,6 @@
  * DEALINGS IN THE SOFTWARE.
  * 
  *
- * Many parts, brackets-quick-markup was consulted. thanks!
- * https://github.com/redmunds/brackets-quick-markup
  */
 
 define(function (require, exports, module) {
