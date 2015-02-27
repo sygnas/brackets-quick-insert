@@ -1,0 +1,13 @@
+{
+    "name": "brackets-quick-insert",
+    "title": "Quick Insert",
+    "description": "One key shortcut to insert text/tag/url",
+    "homepage": "https://github.com/sygnas/Brackets-quick-insert",
+    "version": "1.0.0",
+    "author": "dada <dada@sygnas.jp> (http://sygnas.jp/)",
+    "license": "MIT",
+    "categories": "utility",
+    "engines": {
+        "brackets": ">=0.39.0"
+    }
+}

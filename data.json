@@ -1,0 +1,33 @@
+{
+    "insertItems": {
+        "br": {
+            "keys": ["SHIFT","ENTER"],
+            "type": "text",
+            "text": "<br>"
+        },
+        "p": {
+            "keys": ["CTRL","SHIFT","ENTER"],
+            "type": "text",
+            "text": "<p>|</p>"
+        },
+        "<": {
+            "keys": ["CTRL","ALT",","],
+            "type": "text",
+            "text": "&lt;"
+        },
+        ">": {
+            "keys": ["CTRL","ALT","."],
+            "type": "text",
+            "text": "&gt;"
+        },
+        "&": {
+            "keys": ["CTRL","ALT","6"],
+            "type": "text",
+            "text": "&amp;"
+        },
+        "drop url": {
+            "keys": ["CTRL","I"],
+            "type": "drop"
+        }
+    }
+}
